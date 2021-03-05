@@ -1,7 +1,6 @@
 # FileZelda  
 ###### *By: Richard Folea*
 ---  
-#### Video Demo: https://drive.google.com/file/d/1X0zTfmUr4IvqSYiLqrNXS6KF0cwPg4bP/view?usp=sharing
 ![demo](src/main/resources/assets/textures/demo.gif)  
 
 ---  
