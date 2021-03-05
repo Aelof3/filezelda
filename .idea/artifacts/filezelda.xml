@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="filezelda">
+    <output-path>$PROJECT_DIR$/out/artifacts/filezelda</output-path>
+    <root id="root">
+      <element id="archive" name="filezelda.jar">
+        <element id="module-output" name="filezelda" />
+      </element>
+    </root>
+  </artifact>
+</component>
