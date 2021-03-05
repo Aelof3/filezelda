@@ -1,4 +1,4 @@
 # FileZelda  
 ###### *By: Richard Folea*
 ---  
-![demo](demo.mp4)
+![demo](demo.gif)
