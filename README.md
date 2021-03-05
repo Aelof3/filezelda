@@ -1,7 +1,7 @@
 # FileZelda  
 ###### *By: Richard Folea*
 ---  
-#### Video Demo: 
+#### Video Demo: https://drive.google.com/file/d/1X0zTfmUr4IvqSYiLqrNXS6KF0cwPg4bP/view?usp=sharing
 ![demo](src/main/resources/assets/textures/demo.gif)  
 
 ---  
@@ -147,6 +147,10 @@ The hope is that FileZelda reaches the nerd in all of us to achieve what may oth
 ---  
 #### About the author:  
 
-Howdy! My name is Richard Folea. I am a software developer and ethical hacker. I enjoy tackling new challenges, and learning new ways to look at familiar problems.  
+Howdy!  
+
+My name is Richard Folea.  
+
+I am a software developer and ethical hacker. I enjoy tackling new challenges, and learning new ways to look at familiar problems.  
 
 One of my favorite things to do is to debug code given to me by other people. I love jumping in the deep end and untangling entire applications.  
